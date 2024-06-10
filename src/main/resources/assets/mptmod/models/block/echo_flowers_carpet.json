@@ -1,0 +1,6 @@
+{
+  "parent": "block/carpet",
+  "textures": {
+    "wool": "mptmod:block/echo_flowers_carpet"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "down": "mptmod:block/lamp_bottom",
+    "up": "mptmod:block/lamp_top",
+    "north": "mptmod:block/lamp_north",
+    "south": "mptmod:block/lamp_south",
+    "west": "mptmod:block/lamp_west",
+    "east": "mptmod:block/lamp_east"
+  }
+}
